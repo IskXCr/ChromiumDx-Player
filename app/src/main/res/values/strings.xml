@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ChDx Player</string>
+    <string name="main_library">Library</string>
+    <string name="sidebar_library">Library</string>
+    <string name="sidebar_about">About</string>
+    <string name="sidebar_settings">Settings</string>
+
+    <!--activity_menu-->
+
+</resources>
