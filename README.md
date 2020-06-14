@@ -2,7 +2,7 @@
 
 ***This is still in progress.***
 
-##Introduction
+## Introduction
 
 ChromiumDx Player is a light-weight music player for Android 7.0 and above.
 
